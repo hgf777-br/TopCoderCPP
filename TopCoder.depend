@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1585412567 source:c:\users\hgf77\documents\c++\topcoder\topcoder\main.cpp
+	<iostream>
+	<clocale>
+	<string>
+	<array>
+	<vector>
+	<cmath>
+	<cctype>
+	<numeric>
+	<algorithm>
+	<map>
+	<sstream>
+	<regex>
+	<sstream>
+	<functional>
+	<set>
+	<stack>
+	<iomanip>
+
