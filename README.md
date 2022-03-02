@@ -1,2 +1,2 @@
-# TopCoderCPP
- Códigos em C++ para o Top Coder
+# C++ Top Coder & Code Wars
+### C++ codes
